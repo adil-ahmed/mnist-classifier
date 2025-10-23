@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+*.egg-info/
+venv/
+.env/
+*.yml
+
+# Data and results
+data/
+results/
+
+# OS
+.DS_Store
+
